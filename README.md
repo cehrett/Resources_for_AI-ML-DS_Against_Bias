@@ -25,7 +25,7 @@ Much of this list is based on a presentation by Watson-in-the-Watt intern Cierra
 ---
 
 [Amazon scraps secret AI recruiting tool that showed bias against women](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G). A news article that illustrates how a company -- in this case Amazon -- can find itself relying on discriminatory AI.
-[Image](images\amazon.jpg)
+[Image](images/amazon.jpg)
 
 
 ---
