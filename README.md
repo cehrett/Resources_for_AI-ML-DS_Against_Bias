@@ -8,6 +8,16 @@ Much of this list is based on a presentation by Watson-in-the-Watt intern Cierra
 
 ## Sources describing problems of social bias
 
+[Supposedly 'Fair' Algorithms Can Perpetuate Discrimination](https://www.wired.com/story/ideas-joi-ito-insurance-algorithms/): How the use of AI runs the risk of re-creating the insurance industry's inequities of the previous century. A look into how AI methods can wind up implementing 'redlining' techniques that disproportionately harm minority communities.
+
+[Algorithmic bias detection and mitigation](https://www.brookings.edu/research/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/): Best practices and policies to reduce consumer harms. A very comprehensive article about algorithmic discrimination and techniques for avoiding it. Full of references to other useful sources.
+
+[Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing): ProPublica's famous investigation discovering racial bias in AI used for making decisions related to bail and criminal sentencing. ![Image](images\pro_publica_compas.jpg)
+
+[Some essential reading and research on race and technology](https://venturebeat.com/2020/06/02/some-essential-reading-and-research-on-race-and-technology/amp/?__twitter_impression=true&fbclid=IwAR1mP_5y1oJQKj851rCKSYeAGfPXSFlYQpBOZKVnbB-mLwx_k4IB3KaCwNU). This is another collection of articles, reports and books relevant to algorithmic discrimination.
+
+[Amazon scraps secret AI recruiting tool that showed bias against women](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G). A news article that illustrates how a company -- in this case Amazon -- can find itself relying on discriminatory AI.
+[Image](images\amazon.jpg)
 
 
 You can use the [editor on GitHub](https://github.com/cehrett/cehrett.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
