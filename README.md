@@ -1,4 +1,14 @@
-## Welcome to GitHub Pages
+# Resources related to social bias in machine learning, artificial intelligence and data science
+
+The below resources are divided into two groups:
+1. Sources for learning about problems of social bias related to ML/AI/DS
+2. Guides/examples of how you can use ML/AI/DS to help identify and fight social bias
+
+Much of this list is based on a presentation by Watson-in-the-Watt intern Cierra Oliveira; that presentation can be viewed [here](https://docs.google.com/presentation/d/109Tw0POt4w4itQ-Hznt7imSnHLF3t6VqPmoWun9UM-U)
+
+## Sources describing problems of social bias
+
+
 
 You can use the [editor on GitHub](https://github.com/cehrett/cehrett.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
