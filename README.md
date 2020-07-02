@@ -6,7 +6,7 @@ The below resources are divided into two groups:
 
 Much of this list is based on a presentation by Watson-in-the-Watt intern Cierra Oliveira; that presentation can be viewed [here](https://docs.google.com/presentation/d/109Tw0POt4w4itQ-Hznt7imSnHLF3t6VqPmoWun9UM-U).
 
-## Sources describing problems of social bias
+## Sources describing problems of algorithmic bias
 
 [Supposedly 'Fair' Algorithms Can Perpetuate Discrimination](https://www.wired.com/story/ideas-joi-ito-insurance-algorithms/): How the use of AI runs the risk of re-creating the insurance industry's inequities of the previous century. A look into how AI methods can wind up implementing 'redlining' techniques that disproportionately harm minority communities.
 
@@ -32,7 +32,6 @@ Much of this list is based on a presentation by Watson-in-the-Watt intern Cierra
   <img src="https://github.com/cehrett/cehrett.github.io/blob/master/images/amazon.jpg?raw=true" alt="Image"/>
 </p>
 
-
 ---
 
 [Google apologizes after its Vision AI produced racist results](https://algorithmwatch.org/en/story/google-vision-racism/). An example of the sort of algorithmic bias that can manifest in visual recognition AI: "AlgorithmWatch showed that Google Vision Cloud, a computer vision service, labeled an image of a dark-skinned individual holding a thermometer “gun” while a similar image with a light-skinned individual was labeled “electronic device”.
@@ -40,6 +39,12 @@ Much of this list is based on a presentation by Watson-in-the-Watt intern Cierra
   <img src="https://github.com/cehrett/cehrett.github.io/blob/master/images/google_vision.jpg?raw=true" alt="Image"/>
 </p>
 
+---
+
+[Ethics, Bias, and Fairness in AI - A TWIML Playlist](https://twimlai.com/ethics-bias-and-ai-twiml-episode-playlist/) collects episodes of Sam Charrington's TWIML podcast related to both algorithmic bias and to using AI to fight for justice.
+<p align="center">
+  <img src="https://github.com/cehrett/cehrett.github.io/blob/master/images/podcast.jpg?raw=true" alt="Image"/>
+</p>
 
 ## Guides and examples: using AI/ML/DS to uncover bias
 
@@ -66,4 +71,25 @@ Much of this list is based on a presentation by Watson-in-the-Watt intern Cierra
 
 [Racial Equity Tools](https://racialequitytools.org/home) "offers tools, research, tips, curricula and ideas for people who want t oincrease their own understanding and to help those working toward justice at every level". Of particular interest for AI/ML/DS purposes is their [data page](https://www.racialequitytools.org/fundamentals/data), which collects a wide array of data sources that you can use to begin your own analysis.
 
+---
 
+[IBM's AI Fairness 360](https://github.com/IBM/AIF360) is a "comprehensive set of fairness metrics for datasets and machine learning models, explanations for these metrics, and algorithms to mitigate bias in datasets and models." Their demo is a helpful way to explore the application of their tools to datasets such as that used in the ProPublica Compas analysis.
+<p align="center">
+  <img src="https://github.com/cehrett/cehrett.github.io/blob/master/images/ibm.jpg?raw=true" alt="Image"/>
+</p>
+
+--- 
+
+[The Aequitas Bias and Fairness Toolkit](https://github.com/dssg/aequitas) similarly provides a set of tools for detecting and mitigating bias in models. They also provide a [demo notebook](https://github.com/dssg/aequitas/blob/master/docs/source/examples/compas_demo.ipynb) focusing on the ProPublica Compas dataset.
+<p align="center">
+  <img src="https://github.com/cehrett/cehrett.github.io/blob/master/images/aequitas.jpg?raw=true" alt="Image"/>
+</p>
+
+---
+
+[Google's ML Fairness Gym](https://github.com/google/ml-fairness-gym)
+
+
+---
+
+[TensorFlow tool for fairness visualization](https://github.com/tensorflow/fairness-indicators)
