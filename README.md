@@ -2,7 +2,7 @@
 
 The below resources are divided into two groups:
 1. Sources for learning about problems of algorithmic bias related to artificial intelligence, machine learning and data science (AI/ML/DS)
-2. Guides/examples of how you can use AI/ML/DS to help identify and fight algorithmic bias
+2. Guides/examples of how you can use AI/ML/DS to help identify and fight bias. You can use your analytical skills to identify bias where it might otherwise have escaped notice, or apply the tools and techniques here to make sure your own models are free of algorithmic bias.
 
 Much of this list is based on a presentation by Watson-in-the-Watt intern Cierra Oliveira; that presentation can be viewed [here](https://docs.google.com/presentation/d/109Tw0POt4w4itQ-Hznt7imSnHLF3t6VqPmoWun9UM-U).
 
@@ -87,9 +87,14 @@ Much of this list is based on a presentation by Watson-in-the-Watt intern Cierra
 
 ---
 
-[Google's ML Fairness Gym](https://github.com/google/ml-fairness-gym)
-
+[Google's ML Fairness Gym](https://github.com/google/ml-fairness-gym): "a set of components for building simple simulations that explore the potential long-run impacts of deploying machine learning-based decision systems in social environments." These tools help one explore the ways in which AI/ML models can have unintended, unexpected, and unjust outcomes. Their quick start guide walks one through an application of the tools to an ML lending model.
+<p align="center">
+  <img src="https://github.com/cehrett/cehrett.github.io/blob/master/images/fairness_gym.jpg?raw=true" alt="Image"/>
+</p>
 
 ---
 
-[TensorFlow tool for fairness visualization](https://github.com/tensorflow/fairness-indicators)
+[TensorFlow Fairness Indicators](https://github.com/tensorflow/fairness-indicators) is a tool for fairness visualization. The tool "enables easy computation of commonly-identified fairness metrics for binary and multiclass classifiers." They include a helpful example Colab notebook which walks one through an application of the tool.
+<p align="center">
+  <img src="https://github.com/cehrett/cehrett.github.io/blob/master/images/fairness_indicators.jpg?raw=true" alt="Image"/>
+</p>
